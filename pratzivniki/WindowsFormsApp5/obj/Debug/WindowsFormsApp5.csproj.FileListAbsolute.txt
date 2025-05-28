@@ -1,0 +1,100 @@
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Database1.mdf
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Database1_log.ldf
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.login.resources
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.main.resources
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.students.resources
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.admin.resources
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.group.resources
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.studentsgrades.resources
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.studentsgroups.resources
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.subjects.resources
+C:\Users\alyona\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.teachers.resources
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\bin\Debug\Database1.mdf
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\bin\Debug\Database1_log.ldf
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.admin.resources
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.group.resources
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.login.resources
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.main.resources
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.students.resources
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.studentsgrades.resources
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.studentsgroups.resources
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.subjects.resources
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.teachers.resources
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\alyona\Downloads\Order-full-id-9590-291\46620d4bb9f56_1794037216_1710865229\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+D:\Новая папка\student\WindowsFormsApp5\bin\Debug\Database1.mdf
+D:\Новая папка\student\WindowsFormsApp5\bin\Debug\Database1_log.ldf
+D:\Новая папка\student\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+D:\Новая папка\student\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+D:\Новая папка\student\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.admin.resources
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.group.resources
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.login.resources
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.main.resources
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.students.resources
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.studentsgrades.resources
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.studentsgroups.resources
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.subjects.resources
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.teachers.resources
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+D:\Новая папка\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\bin\Debug\Database1.mdf
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\bin\Debug\Database1_log.ldf
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.admin.resources
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.group.resources
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.login.resources
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.main.resources
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.students.resources
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.studentsgrades.resources
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.studentsgroups.resources
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.subjects.resources
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.teachers.resources
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\alyona\Desktop\student\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\bin\Debug\Database1.mdf
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\bin\Debug\Database1_log.ldf
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.AssemblyReference.cache
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.admin.resources
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.group.resources
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.login.resources
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.main.resources
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.students.resources
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.studentsgrades.resources
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.studentsgroups.resources
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.subjects.resources
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.teachers.resources
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\alyona\Downloads\Telegram Desktop\pratzivniki\pratzivniki\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
